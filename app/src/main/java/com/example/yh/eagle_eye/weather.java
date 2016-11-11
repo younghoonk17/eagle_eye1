@@ -89,6 +89,9 @@ public class weather extends AppCompatActivity {
                 String latitude = sys.getString("lat");
                 weather_info.setText("Longitude: "+longitude + "\n" + "Latitude: " + latitude);
 
+
+                //testing git 
+
             } catch (final JSONException e){
 
             }
