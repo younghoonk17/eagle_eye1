@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">eagle_eye</string>
+
+    <string name="weather_info">Weather_Info</string>
+    <string name="weather_text">hello world today weather is -99999</string>
+    <string name="run_button">run</string>
+    <string name="run">Run</string>
+
+</resources>
