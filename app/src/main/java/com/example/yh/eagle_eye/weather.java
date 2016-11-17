@@ -22,6 +22,8 @@ public class weather extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_weather);
+
+        //junparkTest1 1
     }
 
     public void onClickRun(View view) {
